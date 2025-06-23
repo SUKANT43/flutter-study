@@ -1,0 +1,6 @@
+widgets are helps to make the code like  a tree
+MaterialApp--->main widget like div maybe
+const --->Increse the perfomance
+scaffold -->which is like a parent div maybe
+
+home and body normal widgets
