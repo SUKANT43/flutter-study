@@ -1,6 +1,6 @@
 name: first_app
 description: "A new Flutter project."
-publish_to: 'none' 
+publish_to: 'none'
 
 version: 1.0.0+1
 
@@ -16,8 +16,13 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
   flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1  # 👈 Add this line
+
+flutter_icons:  # 👈 Icon configuration section
+  android: true
+  ios: true
+  image_path: "images/i_am_rich_app_icon.png"  # 👈 path to your icon image
 
 flutter:
   uses-material-design: true

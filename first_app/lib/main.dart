@@ -11,7 +11,7 @@ void main() {
           centerTitle: true,
         ),
         body: Center(
-          child: Image(image: AssetImage('images/i_am_rich_app_icon.png')),
+          child: Image(image: AssetImage('images/diamond.png')),
         ),
       ),
     ),
